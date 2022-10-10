@@ -1,0 +1,5 @@
+{
+	"token": "DISCORD BOT TOKEN",
+	"clientId": "DISCORD BOT ID",
+	"guildId": "Discord Server ID you want to interact with"
+}

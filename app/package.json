@@ -1,0 +1,15 @@
+{
+  "name": "pearsistant",
+  "version": "1.0.0",
+  "description": "A bot to bridge Home Assistant Automations and Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Pearson <ttpears@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "request": "^2.88.2"
+  }
+}
